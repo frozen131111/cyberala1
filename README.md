@@ -4,7 +4,7 @@
 - Name: **Abhishek Trivedi**
 - Enrollment No.: **20230905040509**
 - Program: **B.Tech in Computer Engineering**
-- Course: **Domain-Specific Application Lab**
+
 
 ## Project Title
 **Simulation of Quantum Key Distribution using BB84 Protocol**
